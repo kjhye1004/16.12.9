@@ -11,6 +11,5 @@ image와 video 소스를 활용하여, 매칭의 변화되는 모습을 확인�
 * 참고사이트
 opencv feature detection 소스코드를 참고하였다.
 http://docs.opencv.org/2.4/doc/tutorials/features2d/feature_homography/feature_homography.html
-
 이미지 매칭 방법에 대한 세부속성을 참고하였다.
 http://m.blog.naver.com/samsjang/220657424078
